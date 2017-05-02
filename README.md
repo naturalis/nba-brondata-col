@@ -25,6 +25,5 @@ The default is
 !filelist
 !*.sh
 !*.gz.*
-!.gitignore
 ```
 
