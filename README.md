@@ -1,4 +1,4 @@
-#NBA - BRONDATA - COL
+# NBA - BRONDATA - COL
 
 ### Overview
 This is the source data of COL for the nba etl. Data is compressed.
@@ -25,5 +25,6 @@ The default is
 !filelist
 !*.sh
 !*.gz.*
+!.gitignore
 ```
 
