@@ -14,7 +14,7 @@ You need a `sh` shell, `gzip` and `split` installed
 3. add, commit and push
 
 #### decompress (after pull/clone)
-1. run sh ./uncompress.sh
+1. run `sh ./uncompress.sh`
 
 ### Updating .gitignore
 The `.gitignore` file is build in reverse, so all files are excluded by default, and only specific files are added.
